@@ -1,0 +1,8 @@
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\model\Product.java
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\dto\ProductResponse.java
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\controller\ProductController.java
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\ProductServiceApplication.java
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\repository\ProductRepository.java
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\dto\ProductRequest.java
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\service\ProductService.java
+C:\Java\microservices-ecommerce\product-service\src\main\java\com\keycode\productservice\event\ProductCreated.java

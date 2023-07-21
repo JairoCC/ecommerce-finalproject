@@ -1,0 +1,8 @@
+com\keycode\inventoryservice\service\InventoryService.class
+com\keycode\inventoryservice\util\DataLoader.class
+com\keycode\inventoryservice\InventoryServiceApplication.class
+com\keycode\inventoryservice\controller\InventoryController.class
+com\keycode\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\keycode\inventoryservice\model\Inventory.class
+com\keycode\inventoryservice\repository\InventoryRepository.class
+com\keycode\inventoryservice\dto\InventoryResponse.class
